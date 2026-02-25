@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Ritesh Wagh 👋
 
-<!--
-**Riteshwagh45/Riteshwagh45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science Student  
+💻 Java Developer  
+🌱 Currently learning Web Development & DSA  
+📍 Malegaon, Maharashtra, India  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- Java
+- HTML, CSS, JavaScript
+- Node.js
+- Git & GitHub
+
+---
+
+## 📊 GitHub Stats
+![Ritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riteshwagh45&show_icons=true&theme=tokyonight)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Riteshwagh45&theme=tokyonight)
+
+---
+
+## 📫 Contact Me
+- GitHub: https://github.com/Riteshwagh45
