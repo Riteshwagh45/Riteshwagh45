@@ -1,31 +1,34 @@
 <h1 align="center">Hi 👋, I'm Ritesh Wagh</h1>
-<h3 align="center">🚀 Java Developer | 💻 Computer Science Student | 🌱 Future Software Engineer</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer;Computer+Science+Student;Full+Stack+Learner;DSA+Enthusiast;Future+Software+Engineer" />
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science Student from Malegaon, Maharashtra, India
-- 💻 Passionate Java Developer
-- 🌱 Currently learning Full Stack Web Development & DSA
-- 🔥 Focused on becoming Software Engineer
-- ⚡ Love building real-world projects
+- 🎓 Computer Science Student from Malegaon, India
+- 💻 Focused on Java Development & Backend Engineering
+- 🌱 Currently learning DSA and Full Stack Development
+- 🚀 Building real-world projects using modern technologies
+- 🎯 Goal: Software Engineer at top tech company
 
 ---
 
-## 🚀 Tech Stack
+## ⚡ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,express,git,github,vscode,linux,mysql" />
+<img src="https://skillicons.dev/icons?i=java,js,html,css,nodejs,express,mysql,git,github,linux,vscode&perline=6"/>
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Riteshwagh45&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshwagh45&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riteshwagh45&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshwagh45&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -38,29 +41,42 @@
 
 ---
 
-## 🧠 Currently Learning
-
-- Java DSA
-- Node.js
-- Backend Development
-- System Design Basics
-
----
-
-## 📌 Featured Projects
-
-- 🔹 Java DSA Practice
-- 🔹 Web Framework Projects
-- 🔹 Node.js Applications
-
----
-
-## 🌐 Connect with Me
+## 🏆 Achievements
 
 <p align="center">
-<a href="https://github.com/Riteshwagh45"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:your-email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=Riteshwagh45&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riteshwagh45&theme=tokyo-night"/>
+
+---
+
+## 🚀 Featured Projects
+
+- 🔹 Java DSA Practice
+- 🔹 Web Framework Practical Projects
+- 🔹 Node.js Backend Applications
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/Riteshwagh45">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:riteshwaghofficial@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+</a>
 </p>
 
 ---
@@ -68,12 +84,10 @@
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
-
-## ⚡ Profile Views
 
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=Riteshwagh45&label=Profile%20views&color=blue&style=for-the-badge"/>
@@ -81,4 +95,4 @@
 
 ---
 
-<h3 align="center">💻 "Code. Learn. Build. Repeat." 🚀</h3>
+<h3 align="center">Code • Learn • Build • Repeat 🚀</h3>
