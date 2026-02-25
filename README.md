@@ -1,18 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ritesh Wagh</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer;Computer+Science+Student;Full+Stack+Learner;DSA+Enthusiast;Future+Software+Engineer" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Java+Developer;Computer+Science+Student;Full+Stack+Learner;DSA+Enthusiast;Future+Software+Engineer"/>
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🎓 Computer Science Student from Malegaon, India
-- 💻 Focused on Java Development & Backend Engineering
-- 🌱 Currently learning DSA and Full Stack Development
-- 🚀 Building real-world projects using modern technologies
-- 🎯 Goal: Software Engineer at top tech company
+- 🎓 Computer Science Student from Malegaon, Maharashtra, India  
+- 💻 Focused on Java Development & Backend Engineering  
+- 🌱 Currently learning DSA, Node.js, and Full Stack Development  
+- 🚀 Building real-world practical projects  
+- 🎯 Goal: Become Software Engineer  
 
 ---
 
@@ -27,8 +27,9 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riteshwagh45&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshwagh45&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Riteshwagh45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshwagh45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 </p>
 
 ---
@@ -36,47 +37,51 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Riteshwagh45&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Riteshwagh45&theme=tokyonight&hide_border=true&background=0D1117"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Riteshwagh45&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Riteshwagh45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
 </p>
 
 ---
 
 ## 📈 Contribution Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riteshwagh45&theme=tokyo-night"/>
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riteshwagh45&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 ## 🚀 Featured Projects
 
-- 🔹 Java DSA Practice
-- 🔹 Web Framework Practical Projects
-- 🔹 Node.js Backend Applications
+- 🔹 Java DSA Practice  
+- 🔹 Web Framework Practical Projects  
+- 🔹 Node.js Backend Applications  
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
+
 <a href="https://github.com/Riteshwagh45">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com">
+<a href="#">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:riteshwaghofficial@gmail.com">
+<a href="mailto:your-email@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
+
 </p>
 
 ---
@@ -89,10 +94,12 @@
 
 ---
 
+## 👀 Profile Views
+
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Riteshwagh45&label=Profile%20views&color=blue&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Riteshwagh45&label=Profile%20views&color=00F7FF&style=for-the-badge"/>
 </p>
 
 ---
 
-<h3 align="center">Code • Learn • Build • Repeat 🚀</h3>
+<h3 align="center">💻 Code • Learn • Build • Repeat 🚀</h3>
