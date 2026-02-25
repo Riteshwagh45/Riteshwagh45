@@ -12,7 +12,7 @@
 - 💻 Focused on Java Development & Backend Engineering  
 - 🌱 Currently learning DSA, Node.js, and Full Stack Development  
 - 🚀 Building real-world practical projects  
-- 🎯 Goal: Become Software Engineer  
+- 🎯 Goal: Software Engineer  
 
 ---
 
@@ -27,9 +27,11 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Riteshwagh45&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshwagh45&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Riteshwagh45&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Riteshwagh45&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
@@ -37,7 +39,7 @@
 ## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=Riteshwagh45&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img src="https://streak-stats.demolab.com?user=Riteshwagh45&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -45,7 +47,7 @@
 ## 🏆 GitHub Achievements
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Riteshwagh45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Riteshwagh45&theme=tokyonight&no-frame=true&no-bg=true"/>
 </p>
 
 ---
@@ -53,7 +55,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riteshwagh45&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Riteshwagh45&theme=tokyo-night"/>
 </p>
 
 ---
